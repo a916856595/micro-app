@@ -1,0 +1,22 @@
+{
+  "microApp": [
+    {
+      "name": "kgis-innerdata-0.0.1",
+      "entry": "//localhost:3000/",
+      "container": "#micro-container",
+      "activeRule": "#/micro-app/kgis-innerdata-0.0.1"
+    },
+    {
+      "name": "kmap-making-0.1.0",
+      "entry": "//localhost:4000/",
+      "container": "#micro-container",
+      "activeRule": "#/micro-app/kmap-making-0.1.0"
+    },
+    {
+      "name": "kmap-icon-0.1.0",
+      "entry": "//10.68.8.81:8080/micro-app-example/kmap-icon-0.1.0/",
+      "container": "#micro-container",
+      "activeRule": "#/micro-app/kmap-icon-0.1.0"
+    }
+  ]
+}

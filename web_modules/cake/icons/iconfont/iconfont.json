@@ -1,0 +1,317 @@
+{
+  "id": "2025412",
+  "name": "制图平台2",
+  "font_family": "font_family",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "17221854",
+      "name": "icon-face-white",
+      "font_class": "icon-face-white",
+      "unicode": "f424",
+      "unicode_decimal": 62500
+    },
+    {
+      "icon_id": "17221855",
+      "name": "icon-face",
+      "font_class": "icon-face",
+      "unicode": "f425",
+      "unicode_decimal": 62501
+    },
+    {
+      "icon_id": "17221856",
+      "name": "icon-point",
+      "font_class": "icon-point",
+      "unicode": "f426",
+      "unicode_decimal": 62502
+    },
+    {
+      "icon_id": "17221857",
+      "name": "icon-point-white",
+      "font_class": "icon-point-white",
+      "unicode": "f427",
+      "unicode_decimal": 62503
+    },
+    {
+      "icon_id": "17221858",
+      "name": "icon-road-white",
+      "font_class": "icon-road-white",
+      "unicode": "f428",
+      "unicode_decimal": 62504
+    },
+    {
+      "icon_id": "17221859",
+      "name": "icon-road",
+      "font_class": "icon-road",
+      "unicode": "f429",
+      "unicode_decimal": 62505
+    },
+    {
+      "icon_id": "17189017",
+      "name": "icon-eye",
+      "font_class": "icon-eye",
+      "unicode": "f423",
+      "unicode_decimal": 62499
+    },
+    {
+      "icon_id": "17050579",
+      "name": "icon-regional-management2",
+      "font_class": "icon-regional-management2",
+      "unicode": "f422",
+      "unicode_decimal": 62498
+    },
+    {
+      "icon_id": "17040691",
+      "name": "location2",
+      "font_class": "location2",
+      "unicode": "f421",
+      "unicode_decimal": 62497
+    },
+    {
+      "icon_id": "17037490",
+      "name": "icon-close2",
+      "font_class": "icon-close2",
+      "unicode": "f420",
+      "unicode_decimal": 62496
+    },
+    {
+      "icon_id": "17037474",
+      "name": "shadow",
+      "font_class": "shadow",
+      "unicode": "f41f",
+      "unicode_decimal": 62495
+    },
+    {
+      "icon_id": "17037445",
+      "name": "location1",
+      "font_class": "location1",
+      "unicode": "f41e",
+      "unicode_decimal": 62494
+    },
+    {
+      "icon_id": "15702972",
+      "name": "icon-close",
+      "font_class": "icon-close",
+      "unicode": "f3d1",
+      "unicode_decimal": 62417
+    },
+    {
+      "icon_id": "16967431",
+      "name": "eye-off",
+      "font_class": "eye-off",
+      "unicode": "f41d",
+      "unicode_decimal": 62493
+    },
+    {
+      "icon_id": "16962910",
+      "name": "icon-drop-down5",
+      "font_class": "icon-drop-down5",
+      "unicode": "f41b",
+      "unicode_decimal": 62491
+    },
+    {
+      "icon_id": "16962415",
+      "name": "icon-drop-down3",
+      "font_class": "icon-drop-down3",
+      "unicode": "f41a",
+      "unicode_decimal": 62490
+    },
+    {
+      "icon_id": "16962309",
+      "name": "icon-drop-down6",
+      "font_class": "icon-drop-down6",
+      "unicode": "f41c",
+      "unicode_decimal": 62492
+    },
+    {
+      "icon_id": "16962260",
+      "name": "icon-drop-down4",
+      "font_class": "icon-drop-down4",
+      "unicode": "f419",
+      "unicode_decimal": 62489
+    },
+    {
+      "icon_id": "16789277",
+      "name": "icon-administrative-division2",
+      "font_class": "icon-administrative-division2",
+      "unicode": "f413",
+      "unicode_decimal": 62483
+    },
+    {
+      "icon_id": "16789278",
+      "name": "icon-administrative-division1",
+      "font_class": "icon-administrative-division1",
+      "unicode": "f414",
+      "unicode_decimal": 62484
+    },
+    {
+      "icon_id": "16789279",
+      "name": "icon-element-management",
+      "font_class": "icon-element-management",
+      "unicode": "f415",
+      "unicode_decimal": 62485
+    },
+    {
+      "icon_id": "16789280",
+      "name": "icon-regional-management",
+      "font_class": "icon-regional-management",
+      "unicode": "f416",
+      "unicode_decimal": 62486
+    },
+    {
+      "icon_id": "16789282",
+      "name": "icon-element-management2",
+      "font_class": "icon-element-management2",
+      "unicode": "f418",
+      "unicode_decimal": 62488
+    },
+    {
+      "icon_id": "16788337",
+      "name": "icon-excel",
+      "font_class": "icon-excel",
+      "unicode": "f411",
+      "unicode_decimal": 62481
+    },
+    {
+      "icon_id": "16788328",
+      "name": "icon-tick",
+      "font_class": "icon-tick",
+      "unicode": "f412",
+      "unicode_decimal": 62482
+    },
+    {
+      "icon_id": "16734241",
+      "name": "icon-base-map",
+      "font_class": "icon-base-map",
+      "unicode": "f410",
+      "unicode_decimal": 62480
+    },
+    {
+      "icon_id": "16734235",
+      "name": "icon-address",
+      "font_class": "icon-address",
+      "unicode": "f40f",
+      "unicode_decimal": 62479
+    },
+    {
+      "icon_id": "16734202",
+      "name": "icon-drop-down2",
+      "font_class": "icon-drop-down2",
+      "unicode": "f40d",
+      "unicode_decimal": 62477
+    },
+    {
+      "icon_id": "16734203",
+      "name": "icon-drop-down",
+      "font_class": "icon-drop-down",
+      "unicode": "f40e",
+      "unicode_decimal": 62478
+    },
+    {
+      "icon_id": "16734137",
+      "name": "icon_road",
+      "font_class": "icon_road",
+      "unicode": "f3fe",
+      "unicode_decimal": 62462
+    },
+    {
+      "icon_id": "16734138",
+      "name": "icon-add2",
+      "font_class": "icon-add2",
+      "unicode": "f3ff",
+      "unicode_decimal": 62463
+    },
+    {
+      "icon_id": "16734139",
+      "name": "icon-arrow-change",
+      "font_class": "icon-arrow-change",
+      "unicode": "f400",
+      "unicode_decimal": 62464
+    },
+    {
+      "icon_id": "16734140",
+      "name": "icon-add",
+      "font_class": "icon-add",
+      "unicode": "f401",
+      "unicode_decimal": 62465
+    },
+    {
+      "icon_id": "16734142",
+      "name": "icon-delete",
+      "font_class": "icon-delete",
+      "unicode": "f402",
+      "unicode_decimal": 62466
+    },
+    {
+      "icon_id": "16734144",
+      "name": "icon-edit",
+      "font_class": "icon-edit",
+      "unicode": "f403",
+      "unicode_decimal": 62467
+    },
+    {
+      "icon_id": "16734146",
+      "name": "icon-Import",
+      "font_class": "icon-Import",
+      "unicode": "f404",
+      "unicode_decimal": 62468
+    },
+    {
+      "icon_id": "16734148",
+      "name": "icon-export",
+      "font_class": "icon-export",
+      "unicode": "f405",
+      "unicode_decimal": 62469
+    },
+    {
+      "icon_id": "16734149",
+      "name": "icon-new",
+      "font_class": "icon-new",
+      "unicode": "f406",
+      "unicode_decimal": 62470
+    },
+    {
+      "icon_id": "16734151",
+      "name": "icon-reduce",
+      "font_class": "icon-reduce",
+      "unicode": "f407",
+      "unicode_decimal": 62471
+    },
+    {
+      "icon_id": "16734152",
+      "name": "icon-rotate",
+      "font_class": "icon-rotate",
+      "unicode": "f408",
+      "unicode_decimal": 62472
+    },
+    {
+      "icon_id": "16734153",
+      "name": "icon-transparency",
+      "font_class": "icon-transparency",
+      "unicode": "f409",
+      "unicode_decimal": 62473
+    },
+    {
+      "icon_id": "16734154",
+      "name": "icon-refresh",
+      "font_class": "icon-refresh",
+      "unicode": "f40a",
+      "unicode_decimal": 62474
+    },
+    {
+      "icon_id": "16734155",
+      "name": "icon-search ",
+      "font_class": "icon-search",
+      "unicode": "f40b",
+      "unicode_decimal": 62475
+    },
+    {
+      "icon_id": "16734156",
+      "name": "icon-replace",
+      "font_class": "icon-replace",
+      "unicode": "f40c",
+      "unicode_decimal": 62476
+    }
+  ]
+}

@@ -1,0 +1,6 @@
+{
+  "LANG": "cn",
+  "BASE_URL": "https://127.0.0.1",
+  "AJAX_TIMEOUT": "30000",
+  "TOKEN": "123"
+}
